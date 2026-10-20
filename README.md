@@ -2,7 +2,7 @@
 
 How I turned my personal site ([sibangjitdas.com](https://sibangjitdas.com)) from a resume page into a storytelling page for recruiters in India and Canada, by directing Claude (Anthropic's AI) round by round, mostly by voice.
 
-**Compare the first and the final:** [v1](versions/v1-redesign-live.html) | [v54 (live)](versions/v54-flipkart-tags.html)
+**Compare the first and the final:** [v1](https://sibangjitdas.com/ai-built-portfolio-site/versions/v1-redesign-live.html) | [v54 (live)](https://sibangjitdas.com/ai-built-portfolio-site/versions/v54-flipkart-tags.html)
 
 ## The goal
 
@@ -45,3 +45,60 @@ One idea: *"I walk into the gap nobody owns, and close it."* A recruiter should 
 ## Viewing the versions
 
 The HTML files open as live pages through GitHub Pages. Each is a single self-contained file.
+
+### All versions
+
+- [v1-redesign-live](https://sibangjitdas.com/ai-built-portfolio-site/versions/v1-redesign-live.html)
+- [v2-story](https://sibangjitdas.com/ai-built-portfolio-site/versions/v2-story.html)
+- [v3-punchy-hero](https://sibangjitdas.com/ai-built-portfolio-site/versions/v3-punchy-hero.html)
+- [v4-clean-cards](https://sibangjitdas.com/ai-built-portfolio-site/versions/v4-clean-cards.html)
+- [v5-two-mbas](https://sibangjitdas.com/ai-built-portfolio-site/versions/v5-two-mbas.html)
+- [v6-daily-huddles](https://sibangjitdas.com/ai-built-portfolio-site/versions/v6-daily-huddles.html)
+- [v7-cash-desk-scene](https://sibangjitdas.com/ai-built-portfolio-site/versions/v7-cash-desk-scene.html)
+- [v8-diverse-teams](https://sibangjitdas.com/ai-built-portfolio-site/versions/v8-diverse-teams.html)
+- [v9-fresher-learning](https://sibangjitdas.com/ai-built-portfolio-site/versions/v9-fresher-learning.html)
+- [v10-data-integration](https://sibangjitdas.com/ai-built-portfolio-site/versions/v10-data-integration.html)
+- [v11-data-wording](https://sibangjitdas.com/ai-built-portfolio-site/versions/v11-data-wording.html)
+- [v12-hobbies](https://sibangjitdas.com/ai-built-portfolio-site/versions/v12-hobbies.html)
+- [v13-hobbies-timing](https://sibangjitdas.com/ai-built-portfolio-site/versions/v13-hobbies-timing.html)
+- [v14-certifications](https://sibangjitdas.com/ai-built-portfolio-site/versions/v14-certifications.html)
+- [v15-fixed-header](https://sibangjitdas.com/ai-built-portfolio-site/versions/v15-fixed-header.html)
+- [v16-how-i-work](https://sibangjitdas.com/ai-built-portfolio-site/versions/v16-how-i-work.html)
+- [v17-consult-decide-own](https://sibangjitdas.com/ai-built-portfolio-site/versions/v17-consult-decide-own.html)
+- [v18-show-the-benefit](https://sibangjitdas.com/ai-built-portfolio-site/versions/v18-show-the-benefit.html)
+- [v19-plan-whats-next](https://sibangjitdas.com/ai-built-portfolio-site/versions/v19-plan-whats-next.html)
+- [v20-hobbies-short](https://sibangjitdas.com/ai-built-portfolio-site/versions/v20-hobbies-short.html)
+- [v21-compact](https://sibangjitdas.com/ai-built-portfolio-site/versions/v21-compact.html)
+- [v22-planning-analytics](https://sibangjitdas.com/ai-built-portfolio-site/versions/v22-planning-analytics.html)
+- [v23-career-timeline](https://sibangjitdas.com/ai-built-portfolio-site/versions/v23-career-timeline.html)
+- [v24-education-moved](https://sibangjitdas.com/ai-built-portfolio-site/versions/v24-education-moved.html)
+- [v25-one-line-achievements](https://sibangjitdas.com/ai-built-portfolio-site/versions/v25-one-line-achievements.html)
+- [v26-text-and-skills](https://sibangjitdas.com/ai-built-portfolio-site/versions/v26-text-and-skills.html)
+- [v27-tag-fixes](https://sibangjitdas.com/ai-built-portfolio-site/versions/v27-tag-fixes.html)
+- [v28-landing-and-resume](https://sibangjitdas.com/ai-built-portfolio-site/versions/v28-landing-and-resume.html)
+- [v29-hero-hook](https://sibangjitdas.com/ai-built-portfolio-site/versions/v29-hero-hook.html)
+- [v30-consistency-fixes](https://sibangjitdas.com/ai-built-portfolio-site/versions/v30-consistency-fixes.html)
+- [v31-open-to-label](https://sibangjitdas.com/ai-built-portfolio-site/versions/v31-open-to-label.html)
+- [v32-two-stat-cards](https://sibangjitdas.com/ai-built-portfolio-site/versions/v32-two-stat-cards.html)
+- [v33-offclock-moved](https://sibangjitdas.com/ai-built-portfolio-site/versions/v33-offclock-moved.html)
+- [v34-offclock-in-contact](https://sibangjitdas.com/ai-built-portfolio-site/versions/v34-offclock-in-contact.html)
+- [v35-offclock-after-next](https://sibangjitdas.com/ai-built-portfolio-site/versions/v35-offclock-after-next.html)
+- [v36-matching-pills](https://sibangjitdas.com/ai-built-portfolio-site/versions/v36-matching-pills.html)
+- [v37-hobbies-heading](https://sibangjitdas.com/ai-built-portfolio-site/versions/v37-hobbies-heading.html)
+- [v38-heading-scale](https://sibangjitdas.com/ai-built-portfolio-site/versions/v38-heading-scale.html)
+- [v39-no-open-pills](https://sibangjitdas.com/ai-built-portfolio-site/versions/v39-no-open-pills.html)
+- [v40-roles-and-direction](https://sibangjitdas.com/ai-built-portfolio-site/versions/v40-roles-and-direction.html)
+- [v41-hero-flow-icons](https://sibangjitdas.com/ai-built-portfolio-site/versions/v41-hero-flow-icons.html)
+- [v42-ops-loop](https://sibangjitdas.com/ai-built-portfolio-site/versions/v42-ops-loop.html)
+- [v43-hero-layout](https://sibangjitdas.com/ai-built-portfolio-site/versions/v43-hero-layout.html)
+- [v44-stadium-loop](https://sibangjitdas.com/ai-built-portfolio-site/versions/v44-stadium-loop.html)
+- [v45-data-ring](https://sibangjitdas.com/ai-built-portfolio-site/versions/v45-data-ring.html)
+- [v46-halo](https://sibangjitdas.com/ai-built-portfolio-site/versions/v46-halo.html)
+- [v47-even-spokes](https://sibangjitdas.com/ai-built-portfolio-site/versions/v47-even-spokes.html)
+- [v48-clear-labels](https://sibangjitdas.com/ai-built-portfolio-site/versions/v48-clear-labels.html)
+- [v49-clear-arcs](https://sibangjitdas.com/ai-built-portfolio-site/versions/v49-clear-arcs.html)
+- [v50-closing-line](https://sibangjitdas.com/ai-built-portfolio-site/versions/v50-closing-line.html)
+- [v51-closing-size](https://sibangjitdas.com/ai-built-portfolio-site/versions/v51-closing-size.html)
+- [v52-contact-buttons](https://sibangjitdas.com/ai-built-portfolio-site/versions/v52-contact-buttons.html)
+- [v53-kamloops-tags](https://sibangjitdas.com/ai-built-portfolio-site/versions/v53-kamloops-tags.html)
+- [v54-flipkart-tags](https://sibangjitdas.com/ai-built-portfolio-site/versions/v54-flipkart-tags.html)
